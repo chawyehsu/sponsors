@@ -10,3 +10,7 @@
 
 - [通过微信 / via Wechat](wechat.jpg)
 - [通过 PayPal / via PayPal](https://paypal.me/suchuyi)
+
+## 数字货币 / Cryptocurrency
+
+- 比特币 / Bitcoin：[1G1VcLogcfUNPdAcdoMgsVVd4qoELRQifb](https://www.blockchain.com/btc/address/1G1VcLogcfUNPdAcdoMgsVVd4qoELRQifb)
