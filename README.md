@@ -12,3 +12,4 @@
 #### 数字货币 / Cryptocurrency
 
 - 比特币 / Bitcoin：[1Chawye189dYwKccKeqckuvnYyyf49MqA1](https://www.blockchain.com/btc/address/1Chawye189dYwKccKeqckuvnYyyf49MqA1)
+- 闪电网络 / Lightening⚡️Network: https://getalby.com/p/chawyehsu
