@@ -1,15 +1,18 @@
-# 赞助 / Sponsors
+# Sponsors / 赞助
 
-💖 如果你觉得我的开源内容对你有帮助丨Thank you for the support!
+💖 Thank you for the support! 感谢你的支持！
 
-[![GitHub Sponsors](https://img.shields.io/github/sponsors/chawyehsu?label=GitHub%20Sponsors&logo=GitHub%20Sponsors&style=flat-square)](https://github.com/sponsors/chawyehsu) [![Liberapay](https://img.shields.io/liberapay/patrons/chawyehsu.svg?label=Liberapay%20Sponsors&logo=liberapay&style=flat-square)](https://liberapay.com/chawyehsu) 
+### Platform / 平台
 
-### Other Methods
+- GitHub Sponsors: https://github.com/sponsors/chawyehsu
+- Liberapay: https://liberapay.com/chawyehsu
 
-- [通过微信 / via Wechat](wechat.jpg)
-- [通过 PayPal / via PayPal](https://paypal.me/suchuyi)
+### Direct / 直接
 
-#### 数字货币 / Cryptocurrency
+- WeChat / 微信: [QR Code / 二维码](wechat.jpg)
+- PayPal / 贝宝: [paypal.me](https://paypal.me/suchuyi)
 
-- 比特币 / Bitcoin：[1Chawye189dYwKccKeqckuvnYyyf49MqA1](https://www.blockchain.com/btc/address/1Chawye189dYwKccKeqckuvnYyyf49MqA1)
-- 闪电网络 / Lightning⚡️Network: https://getalby.com/p/chawyehsu
+### Cryptocurrency / 数字货币
+
+- Bitcoin / 比特币：[1Chawye189dYwKccKeqckuvnYyyf49MqA1](https://www.blockchain.com/btc/address/1Chawye189dYwKccKeqckuvnYyyf49MqA1)
+- Lightning⚡️Network / 闪电网络: https://getalby.com/p/chawyehsu
